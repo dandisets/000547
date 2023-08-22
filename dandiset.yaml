@@ -40,8 +40,8 @@ assetsSummary:
   - TwoPhotonSeries
 citation: Zhao, Yue; Gan, Yiming; Kelley, Douglas; Holstein-Rønsbo, Stephanie; Boster,
   Kimberly; Thomas, John; Nedergaard, Maiken (2023) Perivascular Pumping of Cerebrospinal
-  Fluid in the Brain with a Valve Mechanism (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000547/draft
+  Fluid in the Brain with a Valve Mechanism (Version 0.230822.1616) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000547/0.230822.1616
 contributor:
 - affiliation:
   - identifier: https://ror.org/022kthw22
@@ -157,14 +157,15 @@ datePublished: '2023-08-22T16:16:47.492355+00:00'
 description: This dataset contains the 2-photon recordings of the penetrating arteries
   of mice, included in the project "Perivascular Pumping of Cerebrospinal Fluid in
   the Brain with a Valve Mechanism".
+doi: 10.48324/dandi.000547/0.230822.1616
 ethicsApproval: []
-id: DANDI:000547/draft
+id: DANDI:000547/0.230822.1616
 identifier: DANDI:000547
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000547/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000547/0.230822.1616/assets.yaml
 name: Perivascular Pumping of Cerebrospinal Fluid in the Brain with a Valve Mechanism
 protocol: []
 publishedBy:
@@ -184,6 +185,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000547/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000547/0.230822.1616
+version: 0.230822.1616
 wasGeneratedBy: []
